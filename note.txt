@@ -1,1 +1,1 @@
-The .env file is present in the github gist which is a secret for now. https://gist.github.com/ankithacks/58987f2b3034d5c3d3aea178ff0c91db
+The .env file is present in the github gist which is a secret for now. 
